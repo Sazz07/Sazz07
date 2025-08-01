@@ -52,17 +52,6 @@
 
 ### 📌 Featured Projects
 
-#### 📚 [Bookoria – AI-enhanced Online Bookstore](https://sazzad.vercel.app/projects/bookoria)
-
-> A clean, responsive online bookstore with shopping, admin management, and future AI features.  
-> Built using **Next.js**, **TypeScript**, **Tailwind CSS**, **PostgreSQL**, **Prisma**.
-
-- 🔍 Smart search, filter, and cart
-- 🧑‍💼 Admin dashboard with product control
-- 💳 Checkout and future AI recommendation plan
-
----
-
 #### 💼 Nedu AI – Career Planning Platform
 
 > Built for **Tutors Finland Oy**. AI-powered job matching and career planning platform. _(Private Repo)_
@@ -82,6 +71,16 @@
 - 🔐 Secure auth & role-based access
 - 📊 Built using React + PostgreSQL + Material UI
 - 🔗 [Live Platform](https://staging.prohr.io/)
+
+---
+
+#### 📚 [Bookoria – Online Bookstore](https://sazzad.vercel.app/projects/bookoria)
+
+> A clean, responsive online bookstore with shopping, admin management, and future AI features.  
+> Built using **Next.js**, **TypeScript**, **Tailwind CSS**, **PostgreSQL**, **Prisma**.
+
+- 🔍 Smart search, filter, and cart
+- 🧑‍💼 Admin dashboard with product control
 
 ---
 

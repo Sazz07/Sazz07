@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sazz07/Sazz07/main/banner.gif" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Sazz07/Sazz07/main/banner.mp4" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Md. Sazzad Hossain 👋</h1>
